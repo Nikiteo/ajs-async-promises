@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vqo5bmr9s0vuhrb8?svg=true)](https://ci.appveyor.com/project/Nikiteo/ajs-async-promises)
 # Домашнее задание к лекции «Promises, async/await»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
